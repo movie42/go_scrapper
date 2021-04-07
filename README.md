@@ -1,6 +1,7 @@
 # Go를 이용해서 scrapper 만들기
 
 > update 2021.04.07 | ver.0.1
+> [Nomad Coder의 쉽고 빠른 Go 시작하기](https://nomadcoders.co/go-for-beginners/lobby)를 들으면서 따라 만들어본 scrapper다.
 
 ## 왜 고?
 
